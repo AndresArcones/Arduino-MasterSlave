@@ -1,5 +1,1 @@
-# PracticaFinal-Arduino2
-
-# Autor
-
-Andrés Arcones Crespo
+# Simple master/slave architecture with 1 master and 2 slaves
